@@ -1,0 +1,353 @@
+
+body {
+    background-image: url(/YAHIA/WEBSITES/JAVASCRIPT/partoness/photos/Untitled-4.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+}
+/*-----------------START BODY--------------*/
+
+P {
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    margin-left: 595px;
+}
+/*-----------------START PARGRAPH--------------*/
+#QRT {
+    width: 1500px;
+    margin-left: 175PX;
+    border-radius: 500px;
+}
+/*-----------------MENU PARAGRAPH --------------*/
+#TITLE {
+    font-size: 25px;
+   margin-left: 475px ;
+    color: rgb(109, 109, 109);
+}
+/*-----------------TITLE--------------*/
+#rtq {
+    background-color: rgb(243, 243, 243);
+    width: 1500px;
+    margin-left: 175PX;
+    border-radius: 50px;
+}
+#down {
+    margin-left: 130px;
+}
+nav {
+    margin-left: 450px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 500px;
+    padding-bottom: 1px;
+    margin-bottom: 50px;
+}
+li {
+font-size: 20px;
+padding-top: 10px;
+display: inline-block;
+width: 100px;
+padding-right: 55px;
+}
+ul {
+    width: 1000px;
+    margin-left: 100px;
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+
+}
+#month:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+    
+}
+#day:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#hour:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#minute:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#second:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px; 
+}
+/*-----------------START NAVIGTION--------------*/
+#P1 {
+    padding-bottom: 8px;
+}
+#THETEXT {
+    margin-left: 550px;
+    background-color: white;
+    width: 750px;
+    padding: 10px;
+    border-radius: 5px;
+    color: blueviolet;
+}
+#IMG1 {
+padding-bottom: 3PX;
+}
+#P2 {
+margin-left: 265px; 
+padding-bottom: 8px; 
+}
+#IMG2 {
+    padding-bottom: 3PX;
+}
+#P3 {
+    margin-left: 235px;
+    padding-bottom: 5PX;
+}
+#P4 {
+    margin-left: 190px;
+}
+#P5 {
+    margin-left: 350px;
+}
+/*------------the text----------*/
+footer {
+    margin-top: 700px;
+    background-color: white;
+    border-radius: 5px;
+    color: blueviolet;
+    
+}
+#footer {
+    margin-left: 775px;
+}
+#IMG3 {
+    padding-bottom: 5PX;
+}
+
+
+
+@media (min-width:768px)  and  (max-width:1536px)  {
+
+    footer { 
+        width: 1680px;
+        margin-top: 2320px;
+        margin-left: -6px;
+        height: 200px;
+        font-size: 60px;
+        padding-top: -100px;
+        margin-top: 180px;
+        background-color: white;
+        
+        
+        
+    }
+    #footer {
+        margin-left: 260px;
+        margin-bottom: -800px;
+        justify-content: start;
+        margin-top: 350+px;
+        background-color: white;
+
+        
+    }
+P {
+     font-size: 90px;
+     margin-left: 280px;
+}
+#rtq {
+    margin-left: 100px;
+    height: 200px;
+    border-radius: 500px;
+    font-size: 50px;
+}
+#TITLE {
+    font-size: 40px;
+    margin-left: 300px;
+}
+#down {
+    margin-left: 190px;
+    font-size: 50px;
+}
+nav {
+    height: 500px;
+    border-radius: 50px;
+    width: 1000px;
+    margin-left: 375px;
+}
+li {
+    font-size: 50px;
+    display: block;
+    padding-top: 27px;
+    margin-left: 275px;
+}
+#month:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 408px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 1px;
+    margin-left: -417PX;
+    border-radius: 50PX;
+    
+}
+#day:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 473.5px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#hour:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 449px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#minute:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 398px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#second:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 395px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px; 
+    margin-left: -417PX;
+
+}
+#THETEXT {
+    width: 1200PX;
+    MARGIN-LEFT: 250PX;
+    height: 1300PX;
+}
+#P1 {
+    FONT-SIZE: 50PX;
+    padding-left: 25PX
+}
+#P1 {
+    padding-top: 50PX;
+}
+#IMG1 {
+    width: 1200PX
+    
+}
+#IMG1 {
+height: 100PX
+ 
+}
+#IMG1{
+    padding-top: 40PX
+}
+#P2 {
+    FONT-SIZE: 50PX;
+    padding-left: 25PX 
+    
+}
+#P2 {
+    padding-top: 50PX;
+}
+#IMG2 {
+    width: 1200PX
+}
+#IMG2 {
+    height: 100PX
+     
+    }
+    #IMG2{
+        padding-top: 40PX
+    }
+    #P3 {
+        padding-top: 50PX;
+        FONT-SIZE: 50PX;
+    padding-right: 150px;
+    }
+    #P3 {
+        
+
+    }
+    #IMG3 {
+        padding-top: 40PX
+    }
+    #IMG3 {
+        height: 200PX
+    }
+    #IMG3 {
+        width: 1200PX 
+    }
+    #IMG3 {
+        padding-bottom: 50px; 
+    }
+    #P4 {
+        font-size: 50px ;
+    }
+
+
+ 
+}
+@media (min-width: 1143px) and (max-width: 2286px)  {
+    footer {
+        border-radius: 10px;
+        margin-top: 265px;
+    }
+}
+@media (min-width: 1143px) and (max-width: 2286px) {
+    footer {
+        margin-top: 500px;
+    }
+}
+
+

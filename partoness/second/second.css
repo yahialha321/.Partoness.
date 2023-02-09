@@ -1,0 +1,329 @@
+body {
+    background-image: url(/YAHIA/WEBSITES/JAVASCRIPT/partoness/photos/Untitled-4.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+}
+#QRT {
+    font-size: 50PX;
+    color: white;
+    text-align: center;
+}
+nav {
+    margin-top: 50px;
+    margin-left: 420Px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 500px;
+    padding-bottom: 1px;
+    margin-bottom: 50px;
+}
+li {
+font-size: 20px;
+padding-top: 10px;
+display: inline-block;
+width: 100px;
+padding-right: 55px;
+}
+ul {
+    width: 1000px;
+    margin-left: 100px;
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+
+}
+#month:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+    
+}
+#day:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#hour:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#minute:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+#second:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 20px;
+    border-radius: 1px; 
+}
+
+#result {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+#THETEXT {
+    margin-left: 520px;
+    background-color: white;
+    width: 750px;
+    padding: 10px;
+    border-radius: 5px;
+    color: blueviolet;
+    padding-bottom: 75px;
+}
+#P1 {
+    text-align: center;
+}
+input{
+    margin-left: 287px;
+}
+footer {
+    margin-top: 700px;
+    background-color: white;
+    border-radius: 5px;
+    color: blueviolet;
+}
+#footer {
+    margin-left: 775px;
+}
+@media (min-width:768px)  and  (max-width:1536px)  { 
+    footer { 
+        width: 1680px;
+        margin-top: 2320px;
+        margin-left: -6px;
+        height: 200px;
+        font-size: 60px;
+        padding-top: -100px;
+        margin-top: 1440px;
+        background-color: white;
+        
+        
+        
+    }
+    #footer {
+        margin-left: 260px;
+        margin-bottom: -800px;
+        justify-content: start;
+        margin-top: 350+px;
+        background-color: white;
+
+        
+    }
+P {
+     font-size: 90px;
+     margin-left: 280px;
+}
+#rtq {
+    margin-left: 100px;
+    height: 200px;
+    border-radius: 500px;
+    font-size: 50px;
+}
+#TITLE {
+    font-size: 40px;
+    margin-left: 300px;
+}
+#down {
+    margin-left: 190px;
+    font-size: 50px;
+}
+nav {
+    height: 500px;
+    border-radius: 50px;
+    width: 1000px;
+    margin-left: 324px;
+}
+li {
+    font-size: 50px;
+    display: block;
+    padding-top: 27px;
+    margin-left: 275px;
+}
+#month:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 408px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 1px;
+    margin-left: -417PX;
+    border-radius: 50PX;
+    
+}
+#day:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 473.5px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#hour:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 449px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#minute:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 398px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: -417PX;
+}
+#second:hover {
+    background-color: blueviolet;
+    color: white;
+    padding-left: 395px;
+    padding-right: 450px;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    font-size: 50px;
+    border-radius: 50px; 
+    margin-left: -417PX;
+
+}
+#THETEXT {
+    width: 1200PX;
+    MARGIN-LEFT: 230PX;
+    height: 500PX;
+}
+#P1 {
+    FONT-SIZE: 50PX;
+    padding-left: 25PX
+}
+#P1 {
+    padding-top: 50PX;
+}
+#IMG1 {
+    width: 1200PX
+    
+}
+#IMG1 {
+height: 100PX
+ 
+}
+#IMG1{
+    padding-top: 40PX
+}
+#P2 {
+    FONT-SIZE: 50PX;
+    padding-left: 25PX 
+    
+}
+#P2 {
+    padding-top: 50PX;
+}
+#IMG2 {
+    width: 1200PX
+}
+#IMG2 {
+    height: 100PX
+     
+    }
+    #IMG2{
+        padding-top: 40PX
+    }
+    #P3 {
+        padding-top: 50PX;
+        FONT-SIZE: 50PX;
+    padding-right: 150px;
+    }
+    #P3 {
+        
+
+    }
+    #IMG3 {
+        padding-top: 40PX
+    }
+    #IMG3 {
+        height: 200PX
+    }
+    #IMG3 {
+        width: 1200PX 
+    }
+    #IMG3 {
+        padding-bottom: 50px; 
+    }
+    #P4 {
+        font-size: 50px ;
+    }
+    #QRT {
+        font-size: 100PX;
+        margin-left: 620PX;
+    }
+    INPUT {
+        WIDTH: 574PX;
+        height: 50PX;
+        font-size: 50px;
+    }
+    BUTTON {
+        font-size: 20PX;
+        height: 50PX;
+        padding-BOTTOM: -30PX;
+        margin-BOTTOM: 20px;
+
+    }
+    #CULCATE {
+        height: 45PX;
+    }
+    @media (min-width: 1143px) and (max-width: 2286px)  {
+        footer {
+            border-radius: 10px;
+            margin-top: 265px;
+        }
+    }
+    @media (min-width: 1143px) and (max-width: 2286px) {
+        footer {
+            margin-top: 500px;
+        }
+    }
+    @media (min-width: 1920px) and (max-width: 3840px)  {
+       footer {
+        margin-top: 1000px;
+
+        }
+    }
